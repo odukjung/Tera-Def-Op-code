@@ -1,6 +1,10 @@
 ## OP Code for Server EU 
 - P.105.2
 
+### Instructions
+* move flie in folder definitions to \TeraToolbox\data\definitions
+* move flie in folder opcodes to \TeraToolbox\data\opcodes
+
 # Support
 - *Card-Switch-Rework* - https://github.com/odukjung/Card-Switch-Rework
 
