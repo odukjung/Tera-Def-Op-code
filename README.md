@@ -14,4 +14,4 @@
 
 - *fly-forever* - https://github.com/PsykoDev/fly-forever
 
-- *EZ-Chan-CMD* - https://github.com/PsykoDev/EZ-Chan-CMD
+- *Channelswitcher-CLI* - https://github.com/PatrickSantoZZ/Channelswitcher-CLI
