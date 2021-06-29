@@ -1,5 +1,5 @@
 ## OP Code for Server EU 
-- P.106
+- P.107 *OP-code not change*
 
 ### Instructions
 * move flie in folder definitions to \TeraToolbox\data\definitions
