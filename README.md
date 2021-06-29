@@ -1,6 +1,9 @@
 ## OP Code for Server EU 
 - P.107 *OP-code not change*
 
+### Fix
+- S_CANT_FLY_ANYMORE = 50238
+
 ### Instructions
 * move flie in folder definitions to \TeraToolbox\data\definitions
 * move flie in folder opcodes to \TeraToolbox\data\opcodes
