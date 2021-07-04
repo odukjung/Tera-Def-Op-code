@@ -18,3 +18,5 @@
 - *fly-forever* - https://github.com/PsykoDev/fly-forever
 
 - *Channelswitcher-CLI* - https://github.com/PatrickSantoZZ/Channelswitcher-CLI
+
+- *Tera-ace-Teleport* - https://github.com/odukjung/Tera-ace-Teleport
