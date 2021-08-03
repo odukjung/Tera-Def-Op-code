@@ -1,5 +1,5 @@
 ## OP Code for Server EU 
-- P.107 *OP-code not change*
+- P.108 *OP-code not change* <3
 
 ### Fix
 - S_CANT_FLY_ANYMORE = 50238
