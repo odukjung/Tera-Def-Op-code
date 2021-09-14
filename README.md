@@ -23,3 +23,5 @@
 - *Channelswitcher-CLI* - https://github.com/PatrickSantoZZ/Channelswitcher-CLI
 
 - *Tera-ace-Teleport* - https://github.com/odukjung/Tera-ace-Teleport
+
+- *Lazy-Pet-Skill* - https://github.com/odukjung/Lazy-Pet-Skill
