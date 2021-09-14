@@ -1,5 +1,9 @@
 ## OP Code for Server EU 
 - P.109 let go
+
+### Update
+- C_PET_SKILL
+
 ### Fix
 - OP Code for Card
 
