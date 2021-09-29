@@ -1,5 +1,5 @@
 ## OP Code for Server EU 
-- P.109 let go
+- P.110 so Lazy
 
 ### Update
 - Add C_PET_SKILL
