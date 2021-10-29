@@ -1,5 +1,5 @@
 ## OP Code for Server EU 
-- P.110 so Lazy
+- P.110.3 least update no long update any more
 
 ### Update
 - Add C_PET_SKILL
